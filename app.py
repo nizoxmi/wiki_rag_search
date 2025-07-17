@@ -26,7 +26,7 @@ st.title("한글로 답변하는 AI")
 st.subheader("부제 : Semantic search and Retrieval augmented generation using Elasticsearch and OpenAI")
 
 st.caption('''
-영문 Wiki에서 답변 가능한 질문에 대해서 답변을 잘합니다. 졸은 질문 예 : 
+영문 Wiki에서 답변 가능한 질문에 대해서 답변을 잘합니다. 좋은 질문 예 : 
 - 대서양은 몇 번째로 큰 바다인가?
 - 대한민국의 수도는?
 - 이순신의 출생년도는?
